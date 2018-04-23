@@ -1,1 +1,1 @@
-[{"discardIfEmpty":false,"immutable":false,"extract":"f1","generate":"f2"}]	
+[{"discardIfEmpty":false,"immutable":false,"extract":"f1","generate":"f11"},{"discardIfEmpty":false,"immutable":false,"extract":"f3","generate":"f4"},{"discardIfEmpty":false,"immutable":false,"extract":"f5","generate":"f6"}]	
